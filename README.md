@@ -3,3 +3,5 @@
 ### [时间线](https://8ku.github.io/data/timeline/summary)
 
 ### [小说](https://8ku.github.io/data/novel/summary)
+
+### [政治](https://8ku.github.io/data/politics/summary)
